@@ -13,8 +13,8 @@ def main():
         "I'm a simple auto chatbot.",
         "Exit"
     ]
-
-    for message in messages:
+    while (True): 
+        for message in messages:
         send_message(message)
         time.sleep(2)
 
