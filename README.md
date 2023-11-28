@@ -48,7 +48,8 @@ Install dependencies:
 
 bash
 
-    pip install -r requirements.txt
+    pip install pyautogui 
+    pip install xdotool
 
 Usage
 Running the Auto Chatbot
