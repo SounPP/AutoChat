@@ -41,7 +41,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/SounPP/AutoChat.git
 cd yourrepository
 
 Install dependencies:
